@@ -1,0 +1,8 @@
+/MatkakorttiMockito/.nb-gradle/
+/MatkakorttiMockito/.gradle/
+/Verkkokauppa1/.nb-gradle/
+/Verkkokauppa1/build/
+*.tmp
+build/
+bin/
+.gradle/
